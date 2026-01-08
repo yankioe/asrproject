@@ -3,7 +3,7 @@ Class project for Automatic Speech Recognition, taught by Dr. Gerhard Jäger at 
 
 Our project focuses on forced alignment and phonetic analysis of speech data in [Tatar](https://glottolog.org/resource/languoid/id/tata1255), a low resource language spoken in Tatarstan. We utilize [Montreal Forced Aligner (MFA)](https://montreal-forced-aligner.readthedocs.io/en/latest/) to align speech and text, and analyze variation in pronunciation across different speakers, regions, or age groups.
 
-All sound data courtesy of [Mozilla Commonvoice](https://datacollective.mozillafoundation.org/datasets).
+All sound data courtesy of [Mozilla Common Voice](https://datacollective.mozillafoundation.org/datasets).
 
 ## Objectives
 - Use forced alignment to generate phoneme or word-level time alignments.
@@ -15,7 +15,7 @@ All sound data courtesy of [Mozilla Commonvoice](https://datacollective.mozillaf
 ## Repository Content
 - Alignment pipeline and scripts
 
-- Outsourced data and models
+- Alignment results
 
 - Final report
 
