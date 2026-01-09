@@ -13,13 +13,15 @@ All sound data courtesy of [Mozilla Common Voice](https://datacollective.mozilla
 - Evaluate alignment quality manually and via proxy metrics.
 
 ## Repository Content
-- Alignment pipeline and scripts
+- Alignment pipeline and scripts (prep.py)
 
-- Alignment results
+- Force aligned files (aligned.zip)
 
-- Final report
+- Phonetic analysis results (/analysis_outputs)
 
-- Presentation slides
+- Final report (termpaper.pdf)
+
+- Presentation slides (slides.pdf)
 
 ## Team
 **Yanki Öztürk** \
